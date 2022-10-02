@@ -5,9 +5,15 @@
 <h3 align="center">IT Undergrad '23 | Aspiring Software Developer | Frontend Android Developer | Java | Kotlin</h3>
 
 ## Skills
-- **Java** | **Kotlin**
+- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23FF26BE.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> 
+
+- <img alt="Data Structures" src="https://img.shields.io/badge/data_structures-%23009500.svg?&style=for-the-badge&logo=data_structures&logoColor=white"/> <img alt="Algorithms" src="https://img.shields.io/badge/algorithms-%230010D5.svg?&style=for-the-badge&logo=algorithms&logoColor=white" />  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/object_oriented_programming-%230095D5.svg?&style=for-the-badge&logo=object_oriented_programming&logoColor=white" /> 
+
+- <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-%230099F0.svg?&style=for-the-badge&logo=android_studio&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23ED8B00.svg?&style=for-the-badge&logo=firebase&logoColor=white" />  <img alt="XML" src="https://img.shields.io/badge/xml-%230095D5.svg?&style=for-the-badge&logo=xml&logoColor=white" /> <img alt="RestAPI" src="https://img.shields.io/badge/restapi-%230095D5.svg?&style=for-the-badge&logo=restapi&logoColor=white" /> 
+
+<!-- - **Java** | **Kotlin**
 - **Data Structures | Algorithms | Obejct Oriented Programming**
-- **Android Studio | Firebase | XML | RestAPIs**
+- **Android Studio | Firebase | XML | RestAPIs** -->
 
 ## Coding Profiles
 - **LeetCode** - Solved 400+ questions | [Profile Link](https://leetcode.com/baibhavrajputt/)
