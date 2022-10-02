@@ -3,18 +3,22 @@
 </a>
 <h1 align="center">Hi, I'm Kumar Baibhav</h1>
 <h3 align="center">IT Undergrad '23 | Aspiring Software Developer | Frontend Android Developer | Java | Kotlin</h3>
+
 ## Skills
 - **Java** | **Kotlin**
 - **Data Structures | Algorithms | Obejct Oriented Programming**
 - **Android Studio | Firebase | XML | RestAPIs**
+
 ## Coding Profiles
 - **LeetCode** - Solved 400+ questions | [Profile Link](https://leetcode.com/baibhavrajputt/)
 - **GeeksForGeeks** - Solved 200+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/baibhavrajputt/profile/)
+
 ## Resume
 <h3 align = "center">
 <a href="https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing)">
 <img src="https://drive.google.com/uc?export=view&id=1qIp9Xoyq4i9UPm-a7PnLNOuxxBzQLiUk" style="width: auto; max-width: 100%; height: auto" title="Click to view pdf" />
 </h3>
+
 [Resume Link](https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing)
   
 ## Connect with me  
