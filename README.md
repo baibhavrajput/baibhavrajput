@@ -23,8 +23,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1qIp9Xoyq4i9UPm-a7PnLNOuxxBzQLiUk" style="width: auto; max-width: 100%; height: auto" title="Click to view pdf" />
 </h3>
 
-
-- 📄 Resume Link : [https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing](https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing)
+[Resume Link](https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing)
   
 
 ## Connect with me  
@@ -43,6 +42,7 @@
 ##
 <div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhavrajput&label=Profile%20views&color=0e75b6&style=flat" alt="baibhavrajput" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavrajput&show_icons=true&locale=en&layout=compact" alt="baibhavrajput" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baibhavrajput&show_icons=true&locale=en" alt="baibhavrajput" /></p>
