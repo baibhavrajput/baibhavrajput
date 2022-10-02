@@ -9,7 +9,7 @@
 
 - <img alt="Data Structures" src="https://img.shields.io/badge/data_structures-%23009500.svg?&style=for-the-badge&logo=data_structures&logoColor=white"/> <img alt="Algorithms" src="https://img.shields.io/badge/algorithms-%230010D5.svg?&style=for-the-badge&logo=algorithms&logoColor=white" />  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/object_oriented_programming-%230095D5.svg?&style=for-the-badge&logo=object_oriented_programming&logoColor=white" /> 
 
-- <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-%230099F0.svg?&style=for-the-badge&logo=android_studio&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23ED8B00.svg?&style=for-the-badge&logo=firebase&logoColor=white" />  <img alt="XML" src="https://img.shields.io/badge/xml-%230095D5.svg?&style=for-the-badge&logo=xml&logoColor=white" /> <img alt="RestAPI" src="https://img.shields.io/badge/restapi-%230095D5.svg?&style=for-the-badge&logo=restapi&logoColor=white" /> 
+- <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-%230099F0.svg?&style=for-the-badge&logo=android_studio&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23ED8B00.svg?&style=for-the-badge&logo=firebase&logoColor=white" />  <img alt="XML" src="https://img.shields.io/badge/xml-%23FF26BE.svg?&style=for-the-badge&logo=xml&logoColor=white" /> <img alt="RestAPI" src="https://img.shields.io/badge/restapi-%23000000.svg?&style=for-the-badge&logo=restapi&logoColor=white" /> 
 
 <!-- - **Java** | **Kotlin**
 - **Data Structures | Algorithms | Obejct Oriented Programming**
@@ -44,7 +44,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhavrajput&label=Profile%20views&color=0e75b6&style=flat" alt="baibhavrajput" /> </p>
 
-
+<kbr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavrajput&show_icons=true&locale=en&layout=compact" alt="baibhavrajput" />
+</kbr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=baibhavrajput&show_icons=true&locale=en" alt="baibhavrajput" />
+  
+  
+
+<!--- </a>
+<a href="https://github.com/baibhavrajput/Campus-Connect-Kotlin-Android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baibhavrajput&repo=Campus-Connect-Kotlin-Android&theme=radical" />
+
+</a>
+<a href="https://github.com/baibhavrajput/FitMe-app-Android-Kotlin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baibhavrajput&repo=FitMe-app-Android-Kotlin&theme=dark" />
+</a>
+
+<div align="center"> -->
