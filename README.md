@@ -40,10 +40,11 @@
 </div>    
 
 ##
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=baibhavrajput&label=Profile%20views&color=0e75b6&style=flat" alt="baibhavrajput" />
+<div align="left" margin="30px">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavrajput&show_icons=true&locale=en&layout=compact" alt="baibhavrajput" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=baibhavrajput&label=Profile%20views&color=0e75b6&style=flat" alt="baibhavrajput" /></p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavrajput&show_icons=true&locale=en&layout=compact" alt="baibhavrajput" /></p>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=baibhavrajput&show_icons=true&locale=en" alt="baibhavrajput" />
-</div>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=baibhavrajput&show_icons=true&locale=en" alt="baibhavrajput" />
+</div></p>
