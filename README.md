@@ -37,6 +37,11 @@
 
 ## Stats
 
+
+  
+
+<!--- </a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baibhavrajput&label=Profile%20views&color=0e75b6&style=flat" alt="baibhavrajput" /> </p>
 
 <kbr>
@@ -45,9 +50,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=baibhavrajput&show_icons=true&locale=en" alt="baibhavrajput" />
   
-  
 
-<!--- </a>
 <a href="https://github.com/baibhavrajput/Campus-Connect-Kotlin-Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baibhavrajput&repo=Campus-Connect-Kotlin-Android&theme=radical" />
 
